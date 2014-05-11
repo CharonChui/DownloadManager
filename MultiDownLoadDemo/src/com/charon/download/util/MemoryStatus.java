@@ -1,5 +1,5 @@
 
-package com.baidu.download.util;
+package com.charon.download.util;
 
 import java.io.File;
 import java.io.InputStream;

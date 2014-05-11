@@ -1,8 +1,9 @@
 
-package com.baidu.download;
+package com.charon.download;
 
-import com.baidu.download.engine.DownloadManager;
-import com.baidu.download.entity.Novel;
+import com.charon.download.R;
+import com.charon.download.engine.DownloadManager;
+import com.charon.download.entity.Novel;
 
 import android.app.Activity;
 import android.content.Intent;

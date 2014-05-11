@@ -1,10 +1,10 @@
 
-package com.baidu.download.service;
+package com.charon.download.service;
 
-import com.baidu.download.R;
-import com.baidu.download.engine.DownloadManager;
-import com.baidu.download.entity.Download;
-import com.baidu.download.entity.Download.NotificationProgressListener;
+import com.charon.download.R;
+import com.charon.download.engine.DownloadManager;
+import com.charon.download.entity.Download;
+import com.charon.download.entity.Download.NotificationProgressListener;
 
 import android.app.Notification;
 import android.app.PendingIntent;

@@ -1,5 +1,5 @@
 
-package com.baidu.download.db;
+package com.charon.download.db;
 
 public class TableInfo {
     public static final String TABLE_NAME_DOWNLOAD = "downloadProgramList";

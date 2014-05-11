@@ -1,5 +1,5 @@
 
-package com.baidu.download.db;
+package com.charon.download.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

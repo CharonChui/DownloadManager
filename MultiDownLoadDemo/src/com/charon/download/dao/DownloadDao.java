@@ -1,14 +1,14 @@
 
-package com.baidu.download.dao;
+package com.charon.download.dao;
 
-import com.baidu.download.dao.inter.IDownloadDao;
-import com.baidu.download.db.DownloadOpenHelper;
-import com.baidu.download.db.TableInfo;
-import com.baidu.download.entity.Download;
-import com.baidu.download.entity.DownloadThreadInfo;
-import com.baidu.download.entity.Novel;
-import com.baidu.download.util.FileUtil;
-import com.baidu.download.util.SerializableUtil;
+import com.charon.download.dao.inter.IDownloadDao;
+import com.charon.download.db.DownloadOpenHelper;
+import com.charon.download.db.TableInfo;
+import com.charon.download.entity.Download;
+import com.charon.download.entity.DownloadThreadInfo;
+import com.charon.download.entity.Novel;
+import com.charon.download.util.FileUtil;
+import com.charon.download.util.SerializableUtil;
 
 import android.content.ContentValues;
 import android.content.Context;

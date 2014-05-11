@@ -1,7 +1,7 @@
 
-package com.baidu.download.engine;
+package com.charon.download.engine;
 
-import com.baidu.download.entity.DownloadThreadInfo;
+import com.charon.download.entity.DownloadThreadInfo;
 
 import android.os.Process;
 

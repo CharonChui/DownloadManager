@@ -1,5 +1,5 @@
 
-package com.baidu.download.dao.inter;
+package com.charon.download.dao.inter;
 
 /**
  * 可下载对象的接口

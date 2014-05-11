@@ -1,5 +1,5 @@
 
-package com.baidu.download.entity;
+package com.charon.download.entity;
 
 import java.io.Serializable;
 

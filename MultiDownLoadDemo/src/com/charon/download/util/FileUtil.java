@@ -2,7 +2,7 @@
  * 
  */
 
-package com.baidu.download.util;
+package com.charon.download.util;
 
 import android.content.ContentResolver;
 import android.content.Context;

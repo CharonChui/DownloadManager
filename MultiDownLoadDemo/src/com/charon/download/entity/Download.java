@@ -1,8 +1,8 @@
 
-package com.baidu.download.entity;
+package com.charon.download.entity;
 
-import com.baidu.download.engine.DownloadThread;
-import com.baidu.download.engine.DownloadThreadListener;
+import com.charon.download.engine.DownloadThread;
+import com.charon.download.engine.DownloadThreadListener;
 
 import android.os.AsyncTask;
 import android.os.Handler;

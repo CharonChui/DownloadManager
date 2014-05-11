@@ -1,5 +1,5 @@
 
-package com.baidu.download.util;
+package com.charon.download.util;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

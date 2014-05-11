@@ -1,11 +1,11 @@
 
-package com.baidu.download.engine;
+package com.charon.download.engine;
 
-import com.baidu.download.dao.DownloadDao;
-import com.baidu.download.entity.Download;
-import com.baidu.download.entity.Download.DownloadCompleteListener;
-import com.baidu.download.entity.Novel;
-import com.baidu.download.service.DownloadService;
+import com.charon.download.dao.DownloadDao;
+import com.charon.download.entity.Download;
+import com.charon.download.entity.Novel;
+import com.charon.download.entity.Download.DownloadCompleteListener;
+import com.charon.download.service.DownloadService;
 
 import android.content.Context;
 import android.content.Intent;

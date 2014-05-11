@@ -1,7 +1,7 @@
 
-package com.baidu.download.entity;
+package com.charon.download.entity;
 
-import com.baidu.download.dao.inter.IDownloader;
+import com.charon.download.dao.inter.IDownloader;
 
 import android.os.Parcel;
 import android.os.Parcelable;

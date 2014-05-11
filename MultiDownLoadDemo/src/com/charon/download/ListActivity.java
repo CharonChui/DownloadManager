@@ -1,9 +1,10 @@
 
-package com.baidu.download;
+package com.charon.download;
 
-import com.baidu.download.engine.DownloadManager;
-import com.baidu.download.entity.Download;
-import com.baidu.download.entity.Download.DownloadListener;
+import com.charon.download.R;
+import com.charon.download.engine.DownloadManager;
+import com.charon.download.entity.Download;
+import com.charon.download.entity.Download.DownloadListener;
 
 import android.app.Activity;
 import android.os.Bundle;

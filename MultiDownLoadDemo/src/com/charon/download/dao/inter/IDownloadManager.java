@@ -1,8 +1,8 @@
 
-package com.baidu.download.dao.inter;
+package com.charon.download.dao.inter;
 
-import com.baidu.download.entity.Download;
-import com.baidu.download.entity.Novel;
+import com.charon.download.entity.Download;
+import com.charon.download.entity.Novel;
 
 import android.content.Context;
 

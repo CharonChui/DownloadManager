@@ -1,5 +1,5 @@
 
-package com.baidu.download.util;
+package com.charon.download.util;
 
 import android.util.Log;
 
